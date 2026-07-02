@@ -1,0 +1,10 @@
+# Sentinel values
+SENTINEL_NUMERIC_MISSING = -1
+SENTINEL_STRING_MISSING = "unknown"
+
+# Limits
+MAX_YEARS_EXPERIENCE = 50
+MAX_JOB_DURATION_MONTHS = 600
+
+# Constants
+DATE_FORMAT = "%Y-%m"
